@@ -2,7 +2,9 @@
 
 int main()
 {
-    printf("Hello ITDays!");
+    int version = 3;
+
+    printf("Hello ITDays %i!\n", version);
 
     return 0;
 }
